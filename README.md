@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a collaboration project between Toluwani Ajibare and David John who are both students in the ALX Africa software engineering program.
+This is a collaboration project between Godgift Afo & Isaiah Sunday who are both students in the ALX Africa software engineering program.
 This project involves a function named '\_printf'. The \_printf function will imitate the actual 'printf' command located in the <stdio.h> library.
 
 ## Prototype
@@ -40,6 +40,6 @@ Print the string of characters in "Hello World":
 
 ### Contributors
 
-1. ToluwaniAJ [Gmail] (toluwaniajibare@gmail.com)
-2. Mcsavvy [Gmail] (davemcsavvii@gmail.com)
+1. Godgift Afo
+2. Isaiah Sunday
 
