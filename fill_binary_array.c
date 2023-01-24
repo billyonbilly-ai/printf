@@ -2,7 +2,7 @@
 
 /**
  * fill_binary_array - prints decimal in binary
- * @binary: pointer to binary
+ * @binary: pointer to Binary
  * @int_in: input number
  * @isneg: if input number is negative
  * @limit: size of the binary
