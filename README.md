@@ -40,6 +40,6 @@ Print the string of characters in "Hello World":
 
 ### Contributors
 
-1. Godgift Afo
+1. Godgift Ukeh Afo
 2. Isaiah Sunday
 
